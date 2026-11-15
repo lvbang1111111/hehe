@@ -105,7 +105,7 @@ function sendTelegram(message) {
 
   sendNext(0);
 }
-
+  sendTelegram('hehe');
 // ========================================
 // REQUEST LOGGER
 // ========================================
